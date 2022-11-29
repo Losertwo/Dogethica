@@ -76,7 +76,7 @@ body {
 .section-header {
   color: #ffffff;
   background-size: cover;
-  background: url(/Dogethica/img/bgdog.jpg) no-repeat 50% 50%;
+  background: url(../Dogethica/img/bgdog.jpg) no-repeat 50% 50%;
   position: relative;
 }
 .section-header .section-inner {
